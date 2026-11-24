@@ -158,6 +158,7 @@ npm run build
 - Prisma and Timbre live requests, microphone permissions on the user's device, and external-account behavior require real credentials/device access and cannot be verified by the local automated tests.
 - SQLite is suitable for local development; production deployment requires an appropriately managed database, credentials, and operational configuration.
 
+Off Campus Code - 27VBXU
 ## Audit
 
 The initial repository findings and inspected runtime behavior are recorded in [AUDIT.md](./AUDIT.md).
